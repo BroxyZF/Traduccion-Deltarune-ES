@@ -42,5 +42,9 @@
             "chapter1/strings.json",
             "strings.json"
         ]
+    },
+    "1.0.2": {
+        "description": "- Nuevo enlace de descarga",
+        "files": []
     }
 }
