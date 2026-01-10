@@ -6,5 +6,41 @@
     "1.0.0": {
         "description": "- Lanzamiento oficial. Capítulo 1",
         "files": []
+    },
+    "1.0.1": {
+        "description": "- Actualiza enlace",
+        "files": [
+            "changes.json",
+            "chapter1/chapter_settings.json",
+            "chapter1/sprites/bg_building_flowershop.png",
+            "chapter1/sprites/bg_building_icee_sign.png",
+            "chapter1/sprites/bg_building_library.png",
+            "chapter1/sprites/bg_building_police.png",
+            "chapter1/sprites/bg_building_school.png",
+            "chapter1/sprites/bg_building_townhall_layer2.png",
+            "chapter1/sprites/bg_hospital_room2.png",
+            "chapter1/sprites/bg_policebarricade.png",
+            "chapter1/sprites/bg_rurus_shop.png",
+            "chapter1/sprites/bg_seam_shopfront.png",
+            "chapter1/sprites/bg_torielclass.png",
+            "chapter1/sprites/spr_battlemsg.png",
+            "chapter1/sprites/spr_btact.png",
+            "chapter1/sprites/spr_btdefend.png",
+            "chapter1/sprites/spr_btfight.png",
+            "chapter1/sprites/spr_btspare.png",
+            "chapter1/sprites/spr_bttech.png",
+            "chapter1/sprites/spr_chartarget.png",
+            "chapter1/sprites/spr_darkmenudesc.png",
+            "chapter1/sprites/spr_dmenu_captions.png",
+            "chapter1/sprites/spr_fieldmuslogo.png",
+            "chapter1/sprites/spr_hpname.png",
+            "chapter1/sprites/spr_pressfront_b.png",
+            "chapter1/sprites/spr_quitmessage.png",
+            "chapter1/sprites/spr_thrashlogo.png",
+            "chapter1/sprites/spr_thrashstats.png",
+            "chapter1/sprites/spr_tplogo.png",
+            "chapter1/strings.json",
+            "strings.json"
+        ]
     }
 }
