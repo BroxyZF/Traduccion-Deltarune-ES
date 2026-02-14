@@ -46,5 +46,9 @@
     "1.0.2": {
         "description": "- Nuevo enlace de descarga",
         "files": []
+    },
+    "1.0.3": {
+        "description": "- Corrige textos del capítulo 1",
+        "files": []
     }
 }
