@@ -50,5 +50,9 @@
     "1.0.3": {
         "description": "- Corrige textos del capítulo 1",
         "files": []
+    },
+    "1.0.4": {
+        "description": "- Agrega detalles y corrige textos y nombres en el capítulo 1",
+        "files": []
     }
 }
