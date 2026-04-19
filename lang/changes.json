@@ -24,7 +24,11 @@
         "files": []
     },
     "1.1.0": {
-    "description": "- Correcciones generales en el capítulo 1.\n- Agrega nuevos sprites.",
-    "files": []
+        "description": "- Correcciones generales en el capítulo 1.\n- Agrega nuevos sprites.",
+        "files": []
+    },
+    "1.1.1": {
+        "description": "- Correcciones menores y nueva fuente.",
+        "files": []
     }
 }
